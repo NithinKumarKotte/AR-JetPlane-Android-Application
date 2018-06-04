@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/App2JetPlane.unity
+  isLoaded: 1
+  isActive: 1
